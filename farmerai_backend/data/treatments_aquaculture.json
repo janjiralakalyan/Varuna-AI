@@ -1,0 +1,233 @@
+{
+  "White Spot Syndrome Virus (WSSV)": {
+    "category": "Viral (WSSV in Penaeid Shrimp - Litopenaeus vannamei)",
+    "pesticide": "Virkon Aquatic (Potassium Peroxymonosulfate 50%) + Aqua-C 50% (Coated Vit C)",
+    "medicine_name": "Virkon Aquatic Disinfectant & Aqua-C 50% Immune Booster",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1.5 ppm pond water disinfection (1.5 kg / Acre-meter water); 5g Coated Vitamin C / kg feed top-dressed with squid oil binder twice daily.",
+    "administration_method": "Dissolve in 50L pond water and broadcast across aerator currents; top-dress feed for 10 days.",
+    "organic": "Fresh Garlic Juice (20 ml/kg feed) + Curcumin Turmeric extract (10g/kg) + Bhuiamla (Phyllanthus niruri 10g/kg) with 20 kg Jaggery/Acre.",
+    "organic_name": "Garlic-Curcumin Extract & Phyllanthus niruri Antiviral Feed Binder",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Strict quarantine: Stop all pond water inlet exchange. Disinfect pond effluent with 10 ppm bleaching powder before any discharge.",
+    "emergency_first_aid": "Run all paddlewheel aerators 24/7 to maintain DO > 6.0 mg/L. If biomass is marketable (> 15g), undertake emergency harvest.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Surface Swimming & Lethargy at Pond Dikes",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Onset Phase",
+        "hallmark": "Shrimp aggregating sluggishly near edges of pond embankments with empty gut."
+      },
+      {
+        "title": "Stage 2: Discrete White Spots on Carapace & Cuticle",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Acute Calcification",
+        "hallmark": "0.5–2.0 mm circular white calcified spots embedded inside head carapace and abdominal segments."
+      },
+      {
+        "title": "Stage 3: Reddish Body Discoloration & Mass Mortality",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Terminal Viremia",
+        "hallmark": "Total pinkish-red chromatophore expansion across tail, loose shell, and rapid mortality."
+      }
+    ]
+  },
+  "EHP (Microsporidiosis)": {
+    "category": "Microsporidian Parasite (Enterocytozoon hepatopenaei)",
+    "pesticide": "Sanocare Micro-Clean (ICAR Formulation) + Gut-Probiotic Bacillus",
+    "medicine_name": "Sanocare Micro-Clean Aqua & Bacillus Spore Probiotic",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "5g Sanocare / kg feed with binder for 7 days + 1kg Pond Probiotic / Acre every 5 days.",
+    "administration_method": "Pellet feed top-dressing using egg-albumin binder; broadcast probiotic with morning aerators.",
+    "organic": "Fermented Rice Bran (FRB) + Bitter Gourd juice (15 ml/kg) + Turmeric (10g/kg) to suppress spore germination.",
+    "organic_name": "Fermented Rice Bran (FRB) & Bitter Melon Spore Suppressor",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Maintain water alkalinity > 130 ppm; perform thorough pond bottom chain dragging to oxidize spores.",
+    "emergency_first_aid": "Apply Agricultural Quicklime (CaO 100 kg/Acre) during preparation; increase feed check-tray inspection frequency.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Severe Growth Stunting & Size Variation",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Growth Retardation",
+        "hallmark": "Wide variation in body length (5g to 18g in same crop day), persistent slow growth."
+      },
+      {
+        "title": "Stage 2: Pale Atrophied Hepatopancreas",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Hepato-Pancreatic Degeneration",
+        "hallmark": "Shrunk, pale yellowish hepatopancreas under cephalothorax, white gut syndrome."
+      },
+      {
+        "title": "Stage 3: White Feces Syndrome & Shell Softness",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Chronic Syndrome",
+        "hallmark": "Floating white fecal strands on water surface and chronically soft, papery exoskeleton."
+      }
+    ]
+  },
+  "Running Mortality Syndrome (RMS)": {
+    "category": "Bacterial / Multi-Factorial (Vibrio campbellii & environmental stress)",
+    "pesticide": "BKC 80% (Benzalkonium Chloride) + Oxytetracycline Aqua 50%",
+    "medicine_name": "BKC 80% Super-Sanitizer + OTC Aqua 50% Soluble",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1 Liter BKC 80% per Acre-meter water column at 9 AM + 3g OTC / kg feed for 5 days.",
+    "administration_method": "Water column sanitization followed by gut probiotic re-inoculation after 48h.",
+    "organic": "Fermented Sugarcane Molasses (30 kg/Acre) + Yeast (500g) + Sea Salt (200 kg/Acre) to stabilize carbon-nitrogen ratio.",
+    "organic_name": "Molasses-Yeast Carbon Booster & Biofloc Flocculator",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Never apply BKC during cloudy or rainy weather. Test dissolved oxygen before application.",
+    "emergency_first_aid": "Cut daily feed by 50% immediately; run central pit drain to remove toxic anaerobic bottom sludge.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Sluggish Crawling on Bottom Pond Edge",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Onset Phase",
+        "hallmark": "Continuous low-level daily mortality (10-50 dead shrimp/day) in check trays."
+      },
+      {
+        "title": "Stage 2: Opaque Whitish Muscle Necrosis",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Muscular Degradation",
+        "hallmark": "Milky cloudy tail muscle, empty digestive tract, and brownish gill soiling."
+      },
+      {
+        "title": "Stage 3: Flaccid Exoskeleton & Black Gills",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Terminal Bacterial Septicemia",
+        "hallmark": "Melanized black necrotic gill filaments and complete loss of pleopod reflexes."
+      }
+    ]
+  },
+  "Epizootic Ulcerative Syndrome (EUS)": {
+    "category": "Fungal / Oomycete (Aphanomyces invadans in Freshwater Carps & Catfish)",
+    "pesticide": "CIFAX (ICAR-CIFA Certified Formulation) / Potassium Permanganate (KMNO4)",
+    "medicine_name": "CIFAX ICAR-CIFA Formulation & KMNO4 Crystals",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1 Liter CIFAX per Acre-meter water column diluted in 100L water OR 2.5 ppm KMNO4 water bath.",
+    "administration_method": "Uniform surface spray across water column on sunny mornings.",
+    "organic": "Agricultural Quicklime CaO (100 kg/Acre) + Raw Rock Salt (150 kg/Acre) + Turmeric powder (5 kg/Acre).",
+    "organic_name": "Quicklime & Halite Rock Salt Antifungal Alkalizer",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Occurs commonly during winter pre-monsoon temperature drops (< 22°C). Maintain water depth > 1.5m.",
+    "emergency_first_aid": "Apply Lime (CaO 100 kg/Acre) to raise water pH > 7.8; broadcast Common Salt (100 kg/Acre) to reduce osmotic stress.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Pin-Head Red Hemorrhagic Spots on Skin",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Initial Dermal Erythema",
+        "hallmark": "Small focal red petechial spots on fish body flanks, head, and caudal peduncle."
+      },
+      {
+        "title": "Stage 2: Deep Necrotic Ulcers & Sloughing Scales",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Ulcerative Mycotic Invasion",
+        "hallmark": "Large open circular erosive red ulcers exposing underlying muscle tissues."
+      },
+      {
+        "title": "Stage 3: Deep Crater Ulcers & Fungal Granuloma",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Advanced Granulomatosis",
+        "hallmark": "Severe deep crater wounds with fungal hyphae penetrating into spinal column."
+      }
+    ]
+  },
+  "Columnaris (Cotton Wool Disease)": {
+    "category": "Bacterial (Flavobacterium columnare / Flexibacter)",
+    "pesticide": "Terramycin Aqua (Oxytetracycline 50%) + Benzalkonium Chloride (BKC 50%)",
+    "medicine_name": "Terramycin Aqua 50% + BKC 50% Aquatic Sanitizer",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1 Liter BKC 50% / Acre-meter water + 50 mg Terramycin / kg fish biomass in floating pellets for 7 days.",
+    "administration_method": "Water column sanitization and medicated feed top-dressing.",
+    "organic": "De-oiled Neem Cake slurry (100 kg/Acre) + Raw Rock Salt (150 kg/Acre) + Turmeric (5 kg/Acre).",
+    "organic_name": "Neem Cake & Turmeric Slurry Organic Antiseptic",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Dilute BKC in 50 Liters pond water before broadcasting. Apply only on bright sunny mornings.",
+    "emergency_first_aid": "Perform dip treatment of severely affected fish in 2 ppm KMNO4 for 1 minute; flush 20% bottom water.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Whitish Saddleback Patch on Dorsal Fin",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Saddleback Lesion",
+        "hallmark": "Pale bleached white band around dorsal fin, eroded fin margins, fin rot."
+      },
+      {
+        "title": "Stage 2: Cottony Bacterial Tufts on Mouth & Gills",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Cotton Wool Growth",
+        "hallmark": "Fluffy yellowish-brown bacterial mats around lips, gills, and operculum."
+      },
+      {
+        "title": "Stage 3: Severe Gill Rot & Truncated Opercular Margin",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Branchial Necrosis",
+        "hallmark": "Completely rotted brownish gill filaments, respiratory asphyxiation at surface."
+      }
+    ]
+  },
+  "Dropsy (Aeromonas)": {
+    "category": "Bacterial (Aeromonas hydrophila / Septicemia)",
+    "pesticide": "Enrofloxacin Aqua 10% / Ciprofloxacin + Epsom Salt (MgSO4)",
+    "medicine_name": "Enrofloxacin Aqua 10% & Epsom Salt (Magnesium Sulfate)",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "5 ml Enrofloxacin Aqua / kg feed + 25 kg Epsom Salt / Acre-meter water column.",
+    "administration_method": "Medicated feed drench twice daily; Epsom salt broadcast for osmotic relief.",
+    "organic": "Crushed Garlic Paste (25g/kg feed) + Ginger (10g/kg) + Phyllanthus emblica (Amla powder 10g/kg).",
+    "organic_name": "Garlic-Ginger Paste & Amla Antioxidant Immune Booster",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Improve pond bottom hygiene. High stocking density and accumulated unconsumed feed trigger outbreaks.",
+    "emergency_first_aid": "Immediately stop overfeeding; siphon out excess organic sludge and apply Zeolite 50 kg/Acre.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Abdominal Swelling (Fluid Retention / Ascites)",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Ascitic Onset",
+        "hallmark": "Bloated rounded abdomen, lethargic swimming, loss of equilibrium."
+      },
+      {
+        "title": "Stage 2: Pinecone Spiky Scales & Exophthalmia (Pop-Eye)",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Pinecone Stage",
+        "hallmark": "Scales standing out like a pinecone due to skin edema, bulging eyes."
+      },
+      {
+        "title": "Stage 3: Hemorrhagic Vent & Internal Organ Failure",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Systemic Failure",
+        "hallmark": "Protruded reddish vent with bloody discharge, complete kidney & liver failure."
+      }
+    ]
+  },
+  "Healthy Fish & Shrimp": {
+    "category": "Optimal Aquatic Biosecurity & Vigorous Biomass",
+    "pesticide": "Not required (Preventive Water & Gut Probiotics)",
+    "medicine_name": "Pro-Aqua Eco-Shield Water Probiotics & Nutri-Gro Aqua Tonic",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "500g Water Probiotics / Acre every 7 days + 10g Mineral Mixture / kg feed.",
+    "administration_method": "Morning broadcast with aerators running; daily feed top-dressing.",
+    "organic": "Fermented Rice Bran (FRB) 25 kg / Acre-meter water + periodic Agricultural Dolomite (50 kg/Acre).",
+    "organic_name": "Fermented Rice Bran (FRB) & Dolomite Buffer Biofloc",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Daily monitoring of Dissolved Oxygen (DO > 5.0 mg/L), pH (7.5 - 8.3), and TAN (< 0.1 mg/L).",
+    "emergency_first_aid": "Maintain regular feeding schedules based strictly on check-tray consumption.",
+    "exemplar_images": [
+      {
+        "title": "Exemplar 1: Glossy Intact Exoskeleton & Clear Rostrum",
+        "image_url": "https://images.unsplash.com/photo-1524704654690-b56c05c78a00?w=600&auto=format&fit=crop&q=80",
+        "stage": "Optimal Shrimp",
+        "hallmark": "Translucent cuticle, full dark continuous gut line, intact uropods and antennae."
+      },
+      {
+        "title": "Exemplar 2: Vigorous Schooling & Feeding Reflex",
+        "image_url": "https://images.unsplash.com/photo-1535591273668-578e31182c4f?w=600&auto=format&fit=crop&q=80",
+        "stage": "Healthy Schooling",
+        "hallmark": "Aggressive feeding response at check-trays, smooth clean scales, bright red gills."
+      },
+      {
+        "title": "Exemplar 3: Planktonic Equilibrium & Clean Water Column",
+        "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=600&auto=format&fit=crop&q=80",
+        "stage": "Pond Balance",
+        "hallmark": "Light greenish-brown diatom bloom (Secchi disc 30-35cm), zero ammonia smell."
+      }
+    ]
+  }
+}

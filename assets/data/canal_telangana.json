@@ -1,0 +1,108 @@
+{
+  "dataset": "Canal Discharge Telangana_SW Telangana (2021 - 2025) Telemetry Hourly",
+  "total_records": 10745,
+  "agencies": [
+    "Telangana SW"
+  ],
+  "stations": {
+    "Flood Flow Canal Head Regulator": {
+      "station_name": "Flood Flow Canal Head Regulator",
+      "district": "NIZAMABAD",
+      "latitude": 18.91368898,
+      "longitude": 78.34351872,
+      "records_count": 1216,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Kaddam Narayan Reddy Dam": {
+      "station_name": "Kaddam Narayan Reddy Dam",
+      "district": "NIRMAL",
+      "latitude": 19.10687018,
+      "longitude": 78.78752978,
+      "records_count": 1150,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Kaddam Narayan Reddy Head Regulator": {
+      "station_name": "Kaddam Narayan Reddy Head Regulator",
+      "district": "NIRMAL",
+      "latitude": 19.11010853,
+      "longitude": 78.79334625,
+      "records_count": 1151,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Kakatiya Canal Head Regulator": {
+      "station_name": "Kakatiya Canal Head Regulator",
+      "district": "NIZAMABAD",
+      "latitude": 18.96639384,
+      "longitude": 78.34478282,
+      "records_count": 1216,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Lakshmi Canal Head Regulator": {
+      "station_name": "Lakshmi Canal Head Regulator",
+      "district": "NIZAMABAD",
+      "latitude": 18.92829892,
+      "longitude": 78.3476055,
+      "records_count": 1216,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Lower Manair Canal Head Regulator": {
+      "station_name": "Lower Manair Canal Head Regulator",
+      "district": "KARIMNAGAR",
+      "latitude": 18.3967124,
+      "longitude": 79.1332059,
+      "records_count": 1184,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 836.0,
+      "mean_discharge_cusecs": 466.1,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Lower Manair Dam_2": {
+      "station_name": "Lower Manair Dam_2",
+      "district": "KARIMNAGAR",
+      "latitude": 18.3967124,
+      "longitude": 79.1332059,
+      "records_count": 1186,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Saraswati Canal Head Regulator": {
+      "station_name": "Saraswati Canal Head Regulator",
+      "district": "NIZAMABAD",
+      "latitude": 18.98950661,
+      "longitude": 78.31865693,
+      "records_count": 1214,
+      "primary_gate": "Gate-2",
+      "peak_discharge_cusecs": 661.6,
+      "mean_discharge_cusecs": 522.5,
+      "sample_time": "25-03-2026 16:00"
+    },
+    "Sri Ram Sagar Dam": {
+      "station_name": "Sri Ram Sagar Dam",
+      "district": "NIZAMABAD",
+      "latitude": 18.96639384,
+      "longitude": 78.34478282,
+      "records_count": 1212,
+      "primary_gate": "Gate-1",
+      "peak_discharge_cusecs": 45.0,
+      "mean_discharge_cusecs": 35.0,
+      "sample_time": "25-03-2026 16:00"
+    }
+  }
+}

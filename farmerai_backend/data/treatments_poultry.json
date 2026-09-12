@@ -1,0 +1,233 @@
+{
+  "Coccidiosis": {
+    "category": "Protozoal Enteritis (Eimeria tenella / necatrix)",
+    "pesticide": "Toltrazuril 2.5% (Baycox Vet) / Amprolium 20% Soluble Powder + Vitamin K3",
+    "medicine_name": "Baycox 2.5% Oral Solution (Toltrazuril)",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1 ml Baycox per 1 Liter drinking water for 2 consecutive days (24h continuous). For severe outbreaks: Amprolium 1.25g/L for 5-7 days.",
+    "administration_method": "Oral via fresh morning drinking water; ensure no other water source is accessible.",
+    "organic": "Organic Apple Cider Vinegar (5 ml/L) + Crushed Garlic Juice (2 ml/L) in drinking water for 5 days. Dust slaked lime on wet litter cakes.",
+    "organic_name": "Garlic Extract & Apple Cider Vinegar Acidifier + Lime Bedding Sanitizer",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Withdrawal period: 8 days for broiler meat. Maintain litter moisture strictly < 20% and clean drinker bells daily with Virkon-S.",
+    "emergency_first_aid": "Immediately quarantine birds showing bloody droppings; administer Vitamin K3 (20 mg/L) to arrest internal hemorrhages.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Early Droopiness & Pale Combs",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Onset (Day 1-2)",
+        "hallmark": "Ruffled feathers, huddling under brooder, and reduced water consumption."
+      },
+      {
+        "title": "Stage 2: Cecal Hemorrhagic Diarrhea",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Acute Sporulation (Day 3-4)",
+        "hallmark": "Blood-tinged mucus droppings, orange mucous feces, and severe dehydration."
+      },
+      {
+        "title": "Stage 3: Advanced Intestinal Sloughing",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Severe Cecal Necrosis",
+        "hallmark": "Severe flock emaciation, clumping of cecal cores, and high mortality."
+      }
+    ]
+  },
+  "Newcastle Disease": {
+    "category": "Viral (Paramyxovirus Type 1 - Ranikhet / ND)",
+    "pesticide": "ND LaSota Live Vaccine & Vimeral Immuno-Tonic",
+    "medicine_name": "Venky's ND LaSota Strain Vaccine + Vimeral (Vit A, D3, E, B12)",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1000-dose live vaccine vial reconstituted in 15-20L chilled skimmed milk water (morning drink within 2h); 10 ml Vimeral / 100 birds daily.",
+    "administration_method": "Oral ocular drop or drinking water drench; administer Vimeral in evening water.",
+    "organic": "Raw Turmeric (200g) + Ginger (100g) + Tulsi (100g) + Black Pepper (20g) + Jaggery (500g) boiled decoction in 5L water; 20 ml/L drinking water.",
+    "organic_name": "Herbal Immuno-Booster Decoction (Turmeric, Ginger, Tulsi & Jaggery)",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Highly contagious: Strictly isolate shed. Burn or deeply bury all mortalities in 1-meter deep pit with lime. Never vaccinate moribund birds.",
+    "emergency_first_aid": "Immediate emergency vaccination of uninfected flock in adjoining sheds; provide Vitamin E + Selenium + Vitamin C in water to combat shock.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Respiratory Gasping & Greenish Diarrhea",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Onset Phase",
+        "hallmark": "Open-beak mouth breathing, tracheal rales, and profuse bright green watery feces."
+      },
+      {
+        "title": "Stage 2: Neurological Torticollis (Twisted Neck)",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Neurotropic Stage",
+        "hallmark": "Head twisting backward (star-gazing), wing droop, and circular walking spasms."
+      },
+      {
+        "title": "Stage 3: Complete Paralysis & Prostration",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Terminal Paralysis",
+        "hallmark": "Total loss of leg motor function, cyanotic comb darkening, and flock mortality."
+      }
+    ]
+  },
+  "Gumboro (IBD)": {
+    "category": "Viral (Infectious Bursal Disease - Avibirnavirus)",
+    "pesticide": "IBD Intermediate Plus Vaccine + Electral-Vet Potassium Citrate Kidney Flusher",
+    "medicine_name": "Gumboro Intermediate Plus Live Vaccine + Nephrotec Liquid",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "Intermediate Plus vaccine at Day 12-14 in water; 5g Electral-Vet / Liter water for 4 consecutive days + 15 ml Nephrotec / 100 birds.",
+    "administration_method": "Drinking water in cool morning hours; maintain 12-14h light.",
+    "organic": "Boiled Coriander Seed decoction (250g) + Pure Jaggery (1 kg) + Rock Salt (50g) + Lemon Juice (100ml) per 1000 birds in morning water.",
+    "organic_name": "Coriander-Jaggery Renal Cleanser & Electrolyte Rehydration Tonic",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Temporarily reduce crude protein in feed to 16% to relieve acute kidney uric acid strain. Disinfect shed with Glutaraldehyde 20%.",
+    "emergency_first_aid": "Provide electrolytes + glucose in drinking water to prevent dehydration; maintain warm brooding temperature (+2°F).",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Vent Pecking & Feathery Soiling",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Early Incubation",
+        "hallmark": "Birds pecking at their own vent, whitish-yellow watery diarrhea pasted to vent feathers."
+      },
+      {
+        "title": "Stage 2: Severe Prostration & Shivering",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Acute Bursal Inflammation",
+        "hallmark": "Extreme reluctance to move, ruffled plumage, subnormal body temperature, trembling."
+      },
+      {
+        "title": "Stage 3: Edematous Hemorrhagic Bursa",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Bursal Atrophy",
+        "hallmark": "Enlarged gelatinous bursa with striations of hemorrhages, severe dehydration."
+      }
+    ]
+  },
+  "Salmonella (Pullorum)": {
+    "category": "Bacterial (Salmonella pullorum / Gallinarum)",
+    "pesticide": "Enrofloxacin 10% Oral Solution / Neomycin Sulphate 50%",
+    "medicine_name": "Meriquin 10% (Enrofloxacin Oral Solution)",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1 ml Enrofloxacin 10% per 1 Liter drinking water for 5 consecutive days (10 mg/kg body weight).",
+    "administration_method": "Oral in fresh daily drinking water for 5 continuous days.",
+    "organic": "Oregano Essential Oil (Carvacrol 60%) 1 ml/3L + Garlic extract drench + acidified water (Citric Acid 1g/L).",
+    "organic_name": "Carvacrol Oregano Oil & Acidified Garlic Antimicrobial Drench",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Egg transmission risk: Do not use eggs from infected flock for incubation. Strict rodent control required.",
+    "emergency_first_aid": "Quarantine sick chicks with chalky white vent pasting; flush water lines with 3% Hydrogen Peroxide.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Chalky White Pasted Vents",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Early Chick Stage",
+        "hallmark": "White diarrheal pasting around the cloaca, chirping in pain during defecation."
+      },
+      {
+        "title": "Stage 2: Somnolence & Huddling Under Heaters",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Systemic Bacteremia",
+        "hallmark": "Eyes closed, drooping wings, swollen hock joints, and extreme weakness."
+      },
+      {
+        "title": "Stage 3: Necrotic Foci in Liver & Heart",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Chronic Infection",
+        "hallmark": "Bronze discoloration of liver, nodular myocarditis, and stunted flock growth."
+      }
+    ]
+  },
+  "Chronic Respiratory Disease (CRD)": {
+    "category": "Bacterial / Mycoplasma (Mycoplasma gallisepticum + E. coli)",
+    "pesticide": "Tylosin Tartrate (Tylodox) / Tilmicosin 25% + Bromhexine Mucolytic",
+    "medicine_name": "Tylodox Powder (Tylosin Tartrate 10% + Doxycycline 10%)",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "1g Tylodox per 1 Liter drinking water for 4-5 consecutive days + Bromhexine 1g/5L.",
+    "administration_method": "Drinking water treatment morning and evening; aerosol shed misting.",
+    "organic": "Eucalyptus Essential Oil (50ml) + Camphor (10g) shed aerosol fogging + Ginger-Peppermint extract in water (2 ml/L).",
+    "organic_name": "Eucalyptus-Camphor Inhalation Fogging & Peppermint Mucus Reliever",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Maintain shed side curtain ventilation; ensure toxic ammonia level is strictly < 15 ppm.",
+    "emergency_first_aid": "Open side curtains for cross-ventilation; mist shed with eucalyptus-menthol spray to clear tracheal mucous plugs.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Nasal Exudate & Sneezing / Snicking",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Upper Tracheal Onset",
+        "hallmark": "Clear to turbid nasal discharge, head shaking, and audible snicking at night."
+      },
+      {
+        "title": "Stage 2: Facial Swelling & Infraorbital Sinusitis",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Sinus Consolidation",
+        "hallmark": "Puffy swollen eyes, closed eyelids glued with foamy exudate, and wheezing."
+      },
+      {
+        "title": "Stage 3: Caseous Airsacculitis & Cheesy Plugs",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Coli-Septicemia Complication",
+        "hallmark": "Thick yellow cheesy exudate in thoracic air sacs, severe respiratory distress."
+      }
+    ]
+  },
+  "Fowl Pox": {
+    "category": "Viral (Avipoxvirus - Cutaneous & Diphtheritic)",
+    "pesticide": "Fowl Pox Live Wing-Web Vaccine & 5% Povidone Iodine Ointment",
+    "medicine_name": "Live Fowl Pox Vaccine (Wing Web) + Betadine 5% Antiseptic",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "Wing-web puncture at 6-8 weeks age. Paint external comb/wattle wart scabs with 5% Povidone Iodine twice daily.",
+    "administration_method": "Wing-web bifurcated needle stab; topical ointment applicator.",
+    "organic": "Cold-pressed Neem Oil (100ml) + Pure Organic Turmeric (50g) + Pure Honey (20g) healing balm applied with sterile cotton swab.",
+    "organic_name": "Neem-Turmeric Antiseptic Healing Balm & Honey Dressing",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Never forcibly peel dry scabs from eyes or comb to prevent massive hemorrhages and secondary bacterial infection.",
+    "emergency_first_aid": "Isolate birds with throat diphtheritic patches; add Vitamin A + C to water to speed up epithelial tissue repair.",
+    "exemplar_images": [
+      {
+        "title": "Stage 1: Papular Nodules on Unfeathered Skin",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Early Cutaneous Onset",
+        "hallmark": "Small yellowish-white blister-like papules on comb, wattles, and earlobes."
+      },
+      {
+        "title": "Stage 2: Dark Wart-Like Scab Encrustation",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Verrucous Phase",
+        "hallmark": "Enlarged dark brown rough scab clusters coalescing across face and eyelids."
+      },
+      {
+        "title": "Stage 3: Diphtheritic Wet Pox in Mouth Cavity",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Wet Diphtheritic Form",
+        "hallmark": "Yellow diphtheritic necrotic canker membranes in larynx causing asphyxiation."
+      }
+    ]
+  },
+  "Healthy Poultry": {
+    "category": "Optimal Avian Health & Biosecurity",
+    "pesticide": "Not required (Preventive Immuno-Tonic)",
+    "medicine_name": "Liv-52 Vet Liquid & Vimeral Nutritional Tonic",
+    "medicine_image_url": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=600&auto=format&fit=crop&q=80",
+    "dosage": "10 ml Liv-52 / 100 birds + 5 ml Vimeral / 100 birds in drinking water twice weekly.",
+    "administration_method": "Drinking water supplementation for flock vitality.",
+    "organic": "Fresh Aloe Vera juice (10 ml/L) + Moringa leaf powder (1% in feed) + probiotic curds drench (10 ml/L).",
+    "organic_name": "Moringa Oleifera Herbal Feed Booster & Aloe Vera Gut Tonic",
+    "organic_image_url": "https://images.unsplash.com/photo-1615485290382-441e4d049cb5?w=600&auto=format&fit=crop&q=80",
+    "precaution": "Maintain biosecurity footbaths with 1% Virkon-S at shed entrance; test water microbial count monthly.",
+    "emergency_first_aid": "Maintain regular feeding schedules, clean water, and dry litter bedding.",
+    "exemplar_images": [
+      {
+        "title": "Exemplar 1: Vibrant Comb & Bright Clear Eyes",
+        "image_url": "https://images.unsplash.com/photo-1548550023-2bdb3c5beed7?w=600&auto=format&fit=crop&q=80",
+        "stage": "Healthy Standard",
+        "hallmark": "Deep crimson bright comb, erect posture, alert clear eyes, smooth tight plumage."
+      },
+      {
+        "title": "Exemplar 2: Healthy Flock Uniformity & Foraging",
+        "image_url": "https://images.unsplash.com/photo-1563281577-a7be47e20db9?w=600&auto=format&fit=crop&q=80",
+        "stage": "Active Flock",
+        "hallmark": "Active feed pecking, uniform body weight distribution, normal firm droppings."
+      },
+      {
+        "title": "Exemplar 3: Clean Dry Cloaca & Well-Formed Feces",
+        "image_url": "https://images.unsplash.com/photo-1516467508483-a7212febe31a?w=600&auto=format&fit=crop&q=80",
+        "stage": "Gut Equilibrium",
+        "hallmark": "Intact cloacal feathers with distinct white uric acid cap on firm fecal roll."
+      }
+    ]
+  }
+}

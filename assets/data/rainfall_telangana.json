@@ -1,0 +1,688 @@
+{
+  "title": "Rainfall Telangana_SW Telangana (2026 - 2030)",
+  "source": "State Water Informatics & Telemetry Grid",
+  "districts": {
+    "ADILABAD": {
+      "district": "ADILABAD",
+      "station_count": 2,
+      "mean_hourly_mm": 262.77,
+      "max_hourly_mm": 431.0,
+      "total_telemetry_mm": 490591.5,
+      "sample_stations": [
+        {
+          "station": "Satnala project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 431.0,
+          "time": "30-04-2026 14:00"
+        },
+        {
+          "station": "Satnala project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 414.0,
+          "time": "30-04-2026 13:00"
+        },
+        {
+          "station": "Satnala project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 409.5,
+          "time": "30-04-2026 16:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "BHADRADRI": {
+      "district": "BHADRADRI",
+      "station_count": 2,
+      "mean_hourly_mm": 3.37,
+      "max_hourly_mm": 257.0,
+      "total_telemetry_mm": 1666.5,
+      "sample_stations": [
+        {
+          "station": "Dummugudem",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 257.0,
+          "time": "23-08-2026 04:00"
+        },
+        {
+          "station": "Kinnerasani project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 257.0,
+          "time": "01-05-2026 00:00"
+        },
+        {
+          "station": "Dummugudem",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 257.0,
+          "time": "29-04-2026 02:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "BHUPALPALLY": {
+      "district": "BHUPALPALLY",
+      "station_count": 2,
+      "mean_hourly_mm": 211.4,
+      "max_hourly_mm": 448.5,
+      "total_telemetry_mm": 428296.5,
+      "sample_stations": [
+        {
+          "station": "Boggulawagu",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 448.5,
+          "time": "11-01-2026 08:00"
+        },
+        {
+          "station": "Boggulawagu",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 415.5,
+          "time": "30-04-2026 15:00"
+        },
+        {
+          "station": "Boggulawagu",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 414.0,
+          "time": "24-04-2026 14:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "JOGULAMBA(GADWAL)": {
+      "district": "JOGULAMBA(GADWAL)",
+      "station_count": 1,
+      "mean_hourly_mm": 5.7,
+      "max_hourly_mm": 257.0,
+      "total_telemetry_mm": 587.0,
+      "sample_stations": [
+        {
+          "station": "Jurala Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 257.0,
+          "time": "27-04-2026 03:00"
+        },
+        {
+          "station": "Jurala Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 128.0,
+          "time": "09-02-2026 14:00"
+        },
+        {
+          "station": "Jurala Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 39.0,
+          "time": "03-08-2026 21:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "KAMAREDDY": {
+      "district": "KAMAREDDY",
+      "station_count": 1,
+      "mean_hourly_mm": 257.6,
+      "max_hourly_mm": 405.5,
+      "total_telemetry_mm": 229263.0,
+      "sample_stations": [
+        {
+          "station": "Nizam Sagar project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 405.5,
+          "time": "30-04-2026 15:00"
+        },
+        {
+          "station": "Nizam Sagar project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 404.0,
+          "time": "30-04-2026 14:00"
+        },
+        {
+          "station": "Nizam Sagar project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 400.0,
+          "time": "30-04-2026 13:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "KARIMNAGAR": {
+      "district": "KARIMNAGAR",
+      "station_count": 1,
+      "mean_hourly_mm": 220.12,
+      "max_hourly_mm": 408.0,
+      "total_telemetry_mm": 230030.5,
+      "sample_stations": [
+        {
+          "station": "Lower Manair Dam_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 408.0,
+          "time": "30-04-2026 13:00"
+        },
+        {
+          "station": "Lower Manair Dam_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 407.0,
+          "time": "30-04-2026 14:00"
+        },
+        {
+          "station": "Lower Manair Dam_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 405.0,
+          "time": "30-04-2026 15:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "KHAMMAM": {
+      "district": "KHAMMAM",
+      "station_count": 4,
+      "mean_hourly_mm": 2.29,
+      "max_hourly_mm": 480.0,
+      "total_telemetry_mm": 2372.0,
+      "sample_stations": [
+        {
+          "station": "peddavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 480.0,
+          "time": "21-03-2026 06:00"
+        },
+        {
+          "station": "Lanka sagar",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 238.0,
+          "time": "08-02-2026 23:00"
+        },
+        {
+          "station": "peddavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 160.0,
+          "time": "19-02-2026 05:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "KUMURAM BHEEM": {
+      "district": "KUMURAM BHEEM",
+      "station_count": 3,
+      "mean_hourly_mm": 224.26,
+      "max_hourly_mm": 480.0,
+      "total_telemetry_mm": 250941.5,
+      "sample_stations": [
+        {
+          "station": "PP Rao project_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 480.0,
+          "time": "24-03-2026 05:00"
+        },
+        {
+          "station": "Vattivagu Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 414.0,
+          "time": "30-04-2026 14:00"
+        },
+        {
+          "station": "Vattivagu Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 409.5,
+          "time": "30-04-2026 13:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "MAHBUBNAGAR": {
+      "district": "MAHBUBNAGAR",
+      "station_count": 1,
+      "mean_hourly_mm": 2.36,
+      "max_hourly_mm": 231.0,
+      "total_telemetry_mm": 504.5,
+      "sample_stations": [
+        {
+          "station": "Koilsagar_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 231.0,
+          "time": "27-04-2026 20:00"
+        },
+        {
+          "station": "Koilsagar_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 113.0,
+          "time": "25-04-2026 20:00"
+        },
+        {
+          "station": "Koilsagar_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 11.5,
+          "time": "12-06-2026 23:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "MANCHERIAL": {
+      "district": "MANCHERIAL",
+      "station_count": 1,
+      "mean_hourly_mm": 3.81,
+      "max_hourly_mm": 39.0,
+      "total_telemetry_mm": 880.0,
+      "sample_stations": [
+        {
+          "station": "Gollavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 39.0,
+          "time": "24-04-2026 20:00"
+        },
+        {
+          "station": "Gollavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 38.5,
+          "time": "29-07-2026 06:00"
+        },
+        {
+          "station": "Gollavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 30.0,
+          "time": "29-07-2026 05:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "MEDAK": {
+      "district": "MEDAK",
+      "station_count": 1,
+      "mean_hourly_mm": 260.2,
+      "max_hourly_mm": 411.5,
+      "total_telemetry_mm": 236001.0,
+      "sample_stations": [
+        {
+          "station": "Pocharam Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 411.5,
+          "time": "28-04-2026 14:00"
+        },
+        {
+          "station": "Pocharam Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 410.5,
+          "time": "29-04-2026 15:00"
+        },
+        {
+          "station": "Pocharam Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 401.5,
+          "time": "25-04-2026 15:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "MULUGU": {
+      "district": "MULUGU",
+      "station_count": 2,
+      "mean_hourly_mm": 320.25,
+      "max_hourly_mm": 500.0,
+      "total_telemetry_mm": 440350.0,
+      "sample_stations": [
+        {
+          "station": "Ramappa Lake_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 500.0,
+          "time": "08-09-2026 23:00"
+        },
+        {
+          "station": "Ramappa Lake_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 500.0,
+          "time": "09-09-2026 23:00"
+        },
+        {
+          "station": "Ramappa Lake_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 500.0,
+          "time": "09-09-2026 22:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "NAGARKURNOOL": {
+      "district": "NAGARKURNOOL",
+      "station_count": 3,
+      "mean_hourly_mm": 4.81,
+      "max_hourly_mm": 249.0,
+      "total_telemetry_mm": 1742.0,
+      "sample_stations": [
+        {
+          "station": "Jonnalaboguda",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 249.0,
+          "time": "22-04-2026 22:00"
+        },
+        {
+          "station": "Jonnalaboguda",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 226.5,
+          "time": "01-09-2026 13:00"
+        },
+        {
+          "station": "Jonnalaboguda",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 192.0,
+          "time": "30-03-2026 16:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "NALGONDA": {
+      "district": "NALGONDA",
+      "station_count": 3,
+      "mean_hourly_mm": 4.07,
+      "max_hourly_mm": 243.0,
+      "total_telemetry_mm": 1004.5,
+      "sample_stations": [
+        {
+          "station": "AKBR",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 243.0,
+          "time": "27-08-2026 11:00"
+        },
+        {
+          "station": "Nagarjuna Sagar_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 44.5,
+          "time": "29-06-2026 01:00"
+        },
+        {
+          "station": "AKBR",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 39.0,
+          "time": "19-02-2026 23:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "NARAYANPET": {
+      "district": "NARAYANPET",
+      "station_count": 1,
+      "mean_hourly_mm": 3.38,
+      "max_hourly_mm": 128.5,
+      "total_telemetry_mm": 466.5,
+      "sample_stations": [
+        {
+          "station": "Sangambanda",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 128.5,
+          "time": "14-02-2026 00:00"
+        },
+        {
+          "station": "Sangambanda",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 25.5,
+          "time": "29-07-2026 17:00"
+        },
+        {
+          "station": "Sangambanda",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 23.0,
+          "time": "15-04-2026 21:30"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "NIRMAL": {
+      "district": "NIRMAL",
+      "station_count": 3,
+      "mean_hourly_mm": 243.15,
+      "max_hourly_mm": 525.0,
+      "total_telemetry_mm": 474390.0,
+      "sample_stations": [
+        {
+          "station": "Suddavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 525.0,
+          "time": "07-05-2026 18:00"
+        },
+        {
+          "station": "Kaddam project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 457.5,
+          "time": "09-09-2026 22:00"
+        },
+        {
+          "station": "Suddavagu_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 450.0,
+          "time": "09-06-2026 09:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "PEDDAPALLY": {
+      "district": "PEDDAPALLY",
+      "station_count": 1,
+      "mean_hourly_mm": 248.91,
+      "max_hourly_mm": 405.0,
+      "total_telemetry_mm": 209585.5,
+      "sample_stations": [
+        {
+          "station": "Yellampalli Project_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 405.0,
+          "time": "26-04-2026 16:00"
+        },
+        {
+          "station": "Yellampalli Project_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 404.0,
+          "time": "16-04-2026 13:00"
+        },
+        {
+          "station": "Yellampalli Project_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 403.0,
+          "time": "30-04-2026 13:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "RAJANNA SIRCILLA": {
+      "district": "RAJANNA SIRCILLA",
+      "station_count": 2,
+      "mean_hourly_mm": 196.11,
+      "max_hourly_mm": 418.0,
+      "total_telemetry_mm": 310047.5,
+      "sample_stations": [
+        {
+          "station": "Mid manair balancing reservoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 418.0,
+          "time": "30-04-2026 12:00"
+        },
+        {
+          "station": "Mid manair balancing reservoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 415.0,
+          "time": "26-04-2026 15:00"
+        },
+        {
+          "station": "Mid manair balancing reservoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 410.5,
+          "time": "30-04-2026 13:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "SANGA REDDY": {
+      "district": "SANGA REDDY",
+      "station_count": 1,
+      "mean_hourly_mm": 4.6,
+      "max_hourly_mm": 401.0,
+      "total_telemetry_mm": 1231.5,
+      "sample_stations": [
+        {
+          "station": "Singur_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 401.0,
+          "time": "30-03-2026 10:00"
+        },
+        {
+          "station": "Singur_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 192.5,
+          "time": "17-02-2026 19:00"
+        },
+        {
+          "station": "Singur_1",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 192.0,
+          "time": "25-03-2026 14:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "SIDDIPET": {
+      "district": "SIDDIPET",
+      "station_count": 1,
+      "mean_hourly_mm": 4.17,
+      "max_hourly_mm": 448.0,
+      "total_telemetry_mm": 1539.5,
+      "sample_stations": [
+        {
+          "station": "Kondapochamma Resrvoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 448.0,
+          "time": "01-02-2026 14:00"
+        },
+        {
+          "station": "Kondapochamma Resrvoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 200.0,
+          "time": "06-09-2026 12:00"
+        },
+        {
+          "station": "Kondapochamma Resrvoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 102.0,
+          "time": "31-08-2026 14:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "VIKARABAD": {
+      "district": "VIKARABAD",
+      "station_count": 1,
+      "mean_hourly_mm": 7.49,
+      "max_hourly_mm": 160.0,
+      "total_telemetry_mm": 764.0,
+      "sample_stations": [
+        {
+          "station": "Kotipally Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 160.0,
+          "time": "16-02-2026 00:00"
+        },
+        {
+          "station": "Kotipally Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 160.0,
+          "time": "25-02-2026 10:00"
+        },
+        {
+          "station": "Kotipally Project",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 48.0,
+          "time": "01-02-2026 22:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    },
+    "WANAPARTHY": {
+      "district": "WANAPARTHY",
+      "station_count": 1,
+      "mean_hourly_mm": 3.09,
+      "max_hourly_mm": 40.5,
+      "total_telemetry_mm": 297.0,
+      "sample_stations": [
+        {
+          "station": "Srirangapuram Balancing Reservoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 40.5,
+          "time": "13-06-2026 07:00"
+        },
+        {
+          "station": "Srirangapuram Balancing Reservoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 23.5,
+          "time": "03-08-2026 22:00"
+        },
+        {
+          "station": "Srirangapuram Balancing Reservoir",
+          "tehsil": "-",
+          "village": "-",
+          "rainfall_mm": 23.0,
+          "time": "06-08-2026 17:00"
+        }
+      ],
+      "forecast_period": "2026 - 2030 (SW Telangana & Telangana Telemetry)"
+    }
+  }
+}

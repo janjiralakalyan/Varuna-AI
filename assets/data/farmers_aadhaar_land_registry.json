@@ -1,0 +1,386 @@
+{
+  "registry_name": "Dharani & Rythu Bandhu Integrated Farmers Land Registry",
+  "department": "Department of Agriculture & Irrigation, Government of Telangana",
+  "command_area": "Telangana Surface Water Irrigation & Canal Network",
+  "version": "2026.1",
+  "last_updated": "2026-09-11",
+  "total_registered_farmers": 8,
+  "farmers": [
+    {
+      "farmer_id": "FMR-TS-001",
+      "aadhaar_number": "5421 8976 3412",
+      "aadhaar_masked": "XXXX-XXXX-3412",
+      "farmer_name": "Ramesh Reddy",
+      "gender": "Male",
+      "mobile": "+91 98480 12341",
+      "kisan_token": "KISAN-MB-98214",
+      "pattadar_passbook_no": "T28190456123",
+      "khata_number": "KH-88219",
+      "land_details": {
+        "district": "Mahabubnagar",
+        "mandal": "Devarkadra",
+        "village": "Chinna Rajamur",
+        "survey_numbers": ["142/A", "143/1"],
+        "total_extent_acres": 5.0,
+        "cultivable_extent_acres": 4.75,
+        "soil_type": "Medium Black Cotton Soil",
+        "soil_ph": 7.6,
+        "geo_coordinates": {
+          "latitude": 16.6432,
+          "longitude": 77.9124
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Sugarcane",
+        "crop_variety": "Co-86032 (Nayana)",
+        "sowing_date": "2026-01-15",
+        "crop_stage": "Vegetative",
+        "root_zone_depth_cm": 60.0,
+        "crop_water_stress_index": 0.32,
+        "soil_moisture_percent": 26.5,
+        "daily_evapotranspiration_mm": 5.8
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Saraswati Canal Network",
+        "regulator_station": "Saraswati Canal Head Regulator",
+        "sluice_gate": "Branch Gate 4-A",
+        "canal_reach": "Head-Reach",
+        "distance_from_regulator_km": 1.2,
+        "transmission_seepage_loss_percent": 2.4,
+        "standard_quota_hours": 8.0,
+        "requested_hours": 14.0,
+        "has_borewell_backup": true,
+        "pump_capacity_hp": 7.5
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-002",
+      "aadhaar_number": "7823 4910 6589",
+      "aadhaar_masked": "XXXX-XXXX-6589",
+      "farmer_name": "Sita Ramulu",
+      "gender": "Female",
+      "mobile": "+91 94401 56782",
+      "kisan_token": "KISAN-NL-44102",
+      "pattadar_passbook_no": "T28190881920",
+      "khata_number": "KH-44102",
+      "land_details": {
+        "district": "Nalgonda",
+        "mandal": "Miryalaguda",
+        "village": "Damaracherla",
+        "survey_numbers": ["209/2", "210/A"],
+        "total_extent_acres": 4.0,
+        "cultivable_extent_acres": 4.0,
+        "soil_type": "Clay Loam Wetland",
+        "soil_ph": 7.2,
+        "geo_coordinates": {
+          "latitude": 16.8712,
+          "longitude": 79.5621
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Paddy (Rice)",
+        "crop_variety": "BPT-5204 (Samba Mahsuri)",
+        "sowing_date": "2026-06-28",
+        "crop_stage": "Flowering Panicle",
+        "root_zone_depth_cm": 35.0,
+        "crop_water_stress_index": 0.86,
+        "soil_moisture_percent": 17.2,
+        "daily_evapotranspiration_mm": 7.4
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Saraswati Canal Network",
+        "regulator_station": "Saraswati Canal Head Regulator",
+        "sluice_gate": "Branch Gate 4-B",
+        "canal_reach": "Mid-Reach",
+        "distance_from_regulator_km": 4.5,
+        "transmission_seepage_loss_percent": 9.0,
+        "standard_quota_hours": 7.5,
+        "requested_hours": 15.0,
+        "has_borewell_backup": false,
+        "pump_capacity_hp": 5.0
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-003",
+      "aadhaar_number": "6312 9045 7821",
+      "aadhaar_masked": "XXXX-XXXX-7821",
+      "farmer_name": "Venkat Rao",
+      "gender": "Male",
+      "mobile": "+91 97012 34567",
+      "kisan_token": "KISAN-KM-19830",
+      "pattadar_passbook_no": "T28190119834",
+      "khata_number": "KH-19830",
+      "land_details": {
+        "district": "Khammam",
+        "mandal": "Kallur",
+        "village": "Peruvancha",
+        "survey_numbers": ["318/1", "319/B"],
+        "total_extent_acres": 3.5,
+        "cultivable_extent_acres": 3.25,
+        "soil_type": "Red Sandy Loam",
+        "soil_ph": 6.8,
+        "geo_coordinates": {
+          "latitude": 17.2015,
+          "longitude": 80.3429
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Red Chilli",
+        "crop_variety": "Teja Wonder (LCA-334)",
+        "sowing_date": "2026-07-10",
+        "crop_stage": "Grain Filling",
+        "root_zone_depth_cm": 40.0,
+        "crop_water_stress_index": 0.68,
+        "soil_moisture_percent": 19.0,
+        "daily_evapotranspiration_mm": 6.2
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Saraswati Canal Network",
+        "regulator_station": "Saraswati Canal Head Regulator",
+        "sluice_gate": "Branch Gate 4-C",
+        "canal_reach": "Tail-Reach",
+        "distance_from_regulator_km": 9.2,
+        "transmission_seepage_loss_percent": 21.5,
+        "standard_quota_hours": 7.0,
+        "requested_hours": 13.0,
+        "has_borewell_backup": true,
+        "pump_capacity_hp": 5.0
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-004",
+      "aadhaar_number": "9081 2345 6712",
+      "aadhaar_masked": "XXXX-XXXX-6712",
+      "farmer_name": "Kalyan Kumar",
+      "gender": "Male",
+      "mobile": "+91 99890 87654",
+      "kisan_token": "KISAN-KM-67210",
+      "pattadar_passbook_no": "T28190772109",
+      "khata_number": "KH-67210",
+      "land_details": {
+        "district": "Khammam",
+        "mandal": "Kallur",
+        "village": "Tallada",
+        "survey_numbers": ["94/1", "95/C"],
+        "total_extent_acres": 6.0,
+        "cultivable_extent_acres": 5.8,
+        "soil_type": "Deep Black Cotton",
+        "soil_ph": 7.8,
+        "geo_coordinates": {
+          "latitude": 17.2341,
+          "longitude": 80.2918
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Cotton",
+        "crop_variety": "Bollgard II Bt-Cotton",
+        "sowing_date": "2026-06-15",
+        "crop_stage": "Flowering Panicle",
+        "root_zone_depth_cm": 55.0,
+        "crop_water_stress_index": 0.74,
+        "soil_moisture_percent": 18.5,
+        "daily_evapotranspiration_mm": 6.9
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Nagarjuna Sagar Left Canal",
+        "regulator_station": "Palair Sub-regulator",
+        "sluice_gate": "Gate 7-A",
+        "canal_reach": "Mid-Reach",
+        "distance_from_regulator_km": 5.1,
+        "transmission_seepage_loss_percent": 11.2,
+        "standard_quota_hours": 9.5,
+        "requested_hours": 16.0,
+        "has_borewell_backup": true,
+        "pump_capacity_hp": 7.5
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-005",
+      "aadhaar_number": "4390 1287 5643",
+      "aadhaar_masked": "XXXX-XXXX-5643",
+      "farmer_name": "Laxmi Bai",
+      "gender": "Female",
+      "mobile": "+91 94900 11223",
+      "kisan_token": "KISAN-WR-31205",
+      "pattadar_passbook_no": "T28190334512",
+      "khata_number": "KH-31205",
+      "land_details": {
+        "district": "Warangal",
+        "mandal": "Ghanpur",
+        "village": "Anantharam",
+        "survey_numbers": ["81/2", "82/1"],
+        "total_extent_acres": 3.0,
+        "cultivable_extent_acres": 3.0,
+        "soil_type": "Red Loamy Soil",
+        "soil_ph": 6.9,
+        "geo_coordinates": {
+          "latitude": 17.8421,
+          "longitude": 79.3512
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Maize",
+        "crop_variety": "DHM-117 Hybrid",
+        "sowing_date": "2026-07-01",
+        "crop_stage": "Grain Filling",
+        "root_zone_depth_cm": 45.0,
+        "crop_water_stress_index": 0.45,
+        "soil_moisture_percent": 23.0,
+        "daily_evapotranspiration_mm": 5.5
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Kakatiya Canal Network",
+        "regulator_station": "Kakatiya Distributary 12",
+        "sluice_gate": "Gate 2-B",
+        "canal_reach": "Head-Reach",
+        "distance_from_regulator_km": 2.0,
+        "transmission_seepage_loss_percent": 4.0,
+        "standard_quota_hours": 6.0,
+        "requested_hours": 9.0,
+        "has_borewell_backup": false,
+        "pump_capacity_hp": 3.0
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-006",
+      "aadhaar_number": "8123 7654 0932",
+      "aadhaar_masked": "XXXX-XXXX-0932",
+      "farmer_name": "Anjaneyulu Goud",
+      "gender": "Male",
+      "mobile": "+91 98492 44556",
+      "kisan_token": "KISAN-JG-55910",
+      "pattadar_passbook_no": "T28190998124",
+      "khata_number": "KH-55910",
+      "land_details": {
+        "district": "Jangaon",
+        "mandal": "Jangaon",
+        "village": "Nidigonda",
+        "survey_numbers": ["112/A", "113/3"],
+        "total_extent_acres": 4.5,
+        "cultivable_extent_acres": 4.25,
+        "soil_type": "Medium Black Soil",
+        "soil_ph": 7.4,
+        "geo_coordinates": {
+          "latitude": 17.7214,
+          "longitude": 79.1824
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Groundnut",
+        "crop_variety": "Kadiri-6 (K-6)",
+        "sowing_date": "2026-06-20",
+        "crop_stage": "Vegetative",
+        "root_zone_depth_cm": 35.0,
+        "crop_water_stress_index": 0.58,
+        "soil_moisture_percent": 21.5,
+        "daily_evapotranspiration_mm": 5.9
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Devadula Lift Canal",
+        "regulator_station": "Station 5 Sluice",
+        "sluice_gate": "Gate 5-Tail",
+        "canal_reach": "Tail-Reach",
+        "distance_from_regulator_km": 8.5,
+        "transmission_seepage_loss_percent": 18.5,
+        "standard_quota_hours": 7.5,
+        "requested_hours": 12.0,
+        "has_borewell_backup": true,
+        "pump_capacity_hp": 5.0
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-007",
+      "aadhaar_number": "7198 3456 1289",
+      "aadhaar_masked": "XXXX-XXXX-1289",
+      "farmer_name": "Narayana Swamy",
+      "gender": "Male",
+      "mobile": "+91 96181 22334",
+      "kisan_token": "KISAN-NG-28491",
+      "pattadar_passbook_no": "T28190445678",
+      "khata_number": "KH-28491",
+      "land_details": {
+        "district": "Nagarkurnool",
+        "mandal": "Bijinepally",
+        "village": "Nagarkurnool Rural",
+        "survey_numbers": ["55/1", "56/A"],
+        "total_extent_acres": 7.0,
+        "cultivable_extent_acres": 6.8,
+        "soil_type": "Clay Loam Alluvial",
+        "soil_ph": 7.3,
+        "geo_coordinates": {
+          "latitude": 16.4829,
+          "longitude": 78.3214
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Paddy (Rice)",
+        "crop_variety": "Telangana Sona (RNR-15048)",
+        "sowing_date": "2026-07-25",
+        "crop_stage": "Vegetative",
+        "root_zone_depth_cm": 30.0,
+        "crop_water_stress_index": 0.35,
+        "soil_moisture_percent": 27.0,
+        "daily_evapotranspiration_mm": 5.2
+      },
+      "canal_irrigation_details": {
+        "canal_system": "Kalwakurthy Lift Canal",
+        "regulator_station": "Lift Canal Branch 3",
+        "sluice_gate": "Gate 1-A",
+        "canal_reach": "Head-Reach",
+        "distance_from_regulator_km": 0.8,
+        "transmission_seepage_loss_percent": 1.8,
+        "standard_quota_hours": 10.0,
+        "requested_hours": 14.0,
+        "has_borewell_backup": true,
+        "pump_capacity_hp": 10.0
+      }
+    },
+    {
+      "farmer_id": "FMR-TS-008",
+      "aadhaar_number": "5901 8472 3619",
+      "aadhaar_masked": "XXXX-XXXX-3619",
+      "farmer_name": "Mallesh Yadav",
+      "gender": "Male",
+      "mobile": "+91 91771 99887",
+      "kisan_token": "KISAN-PD-73820",
+      "pattadar_passbook_no": "T28190667890",
+      "khata_number": "KH-73820",
+      "land_details": {
+        "district": "Peddapalli",
+        "mandal": "Sultanabad",
+        "village": "Dharmaram",
+        "survey_numbers": ["176/2", "177/1"],
+        "total_extent_acres": 3.75,
+        "cultivable_extent_acres": 3.75,
+        "soil_type": "Black Cotton Soil",
+        "soil_ph": 7.5,
+        "geo_coordinates": {
+          "latitude": 18.5218,
+          "longitude": 79.3281
+        }
+      },
+      "crop_details": {
+        "primary_crop": "Paddy (Rice)",
+        "crop_variety": "MTU-1010 (Cottondora Sannalu)",
+        "sowing_date": "2026-06-30",
+        "crop_stage": "Flowering Panicle",
+        "root_zone_depth_cm": 35.0,
+        "crop_water_stress_index": 0.82,
+        "soil_moisture_percent": 18.0,
+        "daily_evapotranspiration_mm": 7.1
+      },
+      "canal_irrigation_details": {
+        "canal_system": "SRSP Main Canal",
+        "regulator_station": "Distributary D-83",
+        "sluice_gate": "Gate 3-B",
+        "canal_reach": "Mid-Reach",
+        "distance_from_regulator_km": 6.0,
+        "transmission_seepage_loss_percent": 12.5,
+        "standard_quota_hours": 7.5,
+        "requested_hours": 14.5,
+        "has_borewell_backup": false,
+        "pump_capacity_hp": 5.0
+      }
+    }
+  ]
+}

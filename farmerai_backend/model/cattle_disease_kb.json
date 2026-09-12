@@ -1,0 +1,223 @@
+{
+  "Mastitis (Bovine Udder Infection)": {
+    "severity": "High (Urgent)",
+    "urgency_level": "Intervene within 12 hours to prevent permanent quarter blindness",
+    "primary_cause": "Streptococcus uberis / Staphylococcus aureus / E. coli bacterial invasion",
+    "first_aid": [
+      "Strip out all infected, clotted milk from affected quarter every 2 hours and discard safely.",
+      "Apply cold compresses or ice packs to the swollen quarter to reduce inflammation.",
+      "Dip teats in 0.5% Povidone Iodine solution post-milking."
+    ],
+    "veterinary_medical_prescription": [
+      "Intramammary Infusion: Ceftiofur / Cloxacillin intramammary tube after complete stripping.",
+      "Systemic Antibiotics: Intramuscular Ceftriaxone + Sulbactam (3-4.5g) or Enrofloxacin 10% (15-20 ml) for 3-5 days.",
+      "Anti-inflammatory / Pain relief: Flunixin Meglumine (10-15 ml IM) or Meloxicam (15-20 ml IM).",
+      "Supportive: Vitamin E + Selenium (e.g., Repronol 10ml IM) and Trisodium Citrate oral powder."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Grind Aloe vera leaf (250g), Fresh Turmeric rhizome (50g), and Slaked lime (Chuna 15g) into smooth paste.",
+      "Add 100ml mustard oil and apply topically over the washed udder 4-5 times daily."
+    ],
+    "recommended_food_modifications": [
+      "Reduce heavy concentrate grain feed by 25% during acute inflammation.",
+      "Add 50g Trisodium Citrate daily in drinking water to restore normal milk pH.",
+      "Provide fresh clean green maize / sorghum fodder with ad-libitum clean water."
+    ],
+    "prevention_vaccination": "Maintain strict dry-cow therapy with long-acting antibiotics; practice clean teat dipping."
+  },
+  "Lumpy Skin Disease (LSD)": {
+    "severity": "High (Contagious Epizootic)",
+    "urgency_level": "Isolate animal immediately; Vector control required",
+    "primary_cause": "Capripoxvirus transmitted by biting flies, mosquitoes, and ticks",
+    "first_aid": [
+      "Isolate the affected cow in a clean, disinfected, mosquito-proof shed.",
+      "Wash skin lesions with 1% Potassium Permanganate (KMnO4) or Neem leaf decoction.",
+      "Spray shed with natural fly repellents (citronella oil or neem oil spray)."
+    ],
+    "veterinary_medical_prescription": [
+      "Broad-spectrum secondary cover: Oxytetracycline LA (20-30 ml IM) or Ceftiofur Sodium (1g IM daily for 4 days).",
+      "Anti-inflammatory & Antipyretic: Meloxicam + Paracetamol (Melonex Plus 15-20 ml IM daily).",
+      "Anti-histaminic: Pheniramine Maleate (Avil 10 ml IM daily).",
+      "Immuno-stimulant: Levamisole (15 ml SC once) or Vitamin A, D3, E booster shots."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Boil Betel leaves (10 nos), Black pepper (10g), Salt (10g), and Jaggery (100g) into a paste; feed orally twice daily.",
+      "Apply Neem-Turmeric-Coconut oil paste directly on burst skin nodules."
+    ],
+    "recommended_food_modifications": [
+      "Feed soft palatable mash: Boiled rice gruel with 100g jaggery and 50g crushed fenugreek seeds.",
+      "Avoid coarse dry straw that can irritate mouth ulcers; provide tender green grass."
+    ],
+    "prevention_vaccination": "Annual Goat Pox / Homologous LSD Vaccine (3ml SC) administered prior to vector season."
+  },
+  "Foot and Mouth Disease (FMD)": {
+    "severity": "Emergency (Highly Contagious)",
+    "urgency_level": "Quarantine farm immediately; report to local state veterinary hospital",
+    "primary_cause": "Aphthovirus (Types O, A, Asia-1)",
+    "first_aid": [
+      "Wash mouth ulcers gently with 1% Alum or Boro-Glycerine solution.",
+      "Wash hoof lesions with 2% Copper Sulphate or 4% Sodium Carbonate solution.",
+      "Apply fly repellent ointment (Himax / Lorexane) around hoof clefts to prevent maggot wounds."
+    ],
+    "veterinary_medical_prescription": [
+      "Antibiotic protection: Procaine Penicillin or Amoxicillin-Sulbactam for 5 days.",
+      "Analgesic & Anti-inflammatory: Flunixin Meglumine or Ketoprofen IM.",
+      "Topical: Glycerin-boric acid paste on tongue ulcers."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Mix sesame oil, turmeric, and garlic paste; apply between the claws.",
+      "Feed ragi porridge (finger millet gruel) mixed with buttermilk for easy digestion."
+    ],
+    "recommended_food_modifications": [
+      "Strictly soft diet: Semi-liquid boiled porridge of wheat flour, ragi, and jaggery.",
+      "Finely chopped lush green fodder (berseem / napier grass) soaked in water."
+    ],
+    "prevention_vaccination": "Bi-annual polyvalent FMD vaccination (FMD-CP programme) in February and August."
+  },
+  "Haemorrhagic Septicaemia (HS - Gal Ghotu)": {
+    "severity": "Emergency (Critical Mortality within 24 Hours)",
+    "urgency_level": "Immediate intravenous medication within 4 hours is life-saving",
+    "primary_cause": "Pasteurella multocida bacterial septicaemia",
+    "first_aid": [
+      "Call emergency veterinary doctor immediately.",
+      "Keep animal upright; ensure clear airway; do not force-feed liquids by mouth (drenching aspiration risk)."
+    ],
+    "veterinary_medical_prescription": [
+      "Immediate high-dose Antibiotics: Sulfadimidine 33.3% solution (100-150 ml slow IV) OR Ceftiofur Sodium (1-2g IV/IM) OR Enrofloxacin.",
+      "Corticosteroid / Anti-inflammatory: Dexamethasone (5-10 ml IV) to relieve acute throat edema.",
+      "Fluid Therapy: Dextrose Normal Saline (DNS 2-3 Liters IV) if dehydrated."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Ethnoveterinary is not sufficient for acute HS — immediate veterinary antibiotic IV is mandatory."
+    ],
+    "recommended_food_modifications": [
+      "Withhold solid coarse fodder until throat swelling subsides.",
+      "Offer fresh lukewarm water with electrolytes."
+    ],
+    "prevention_vaccination": "Pre-monsoon annual HS oil-adjuvant vaccine in May/June."
+  },
+  "Milk Fever (Hypocalcemia)": {
+    "severity": "Emergency (Downer Cow Syndrome)",
+    "urgency_level": "Administer IV Calcium within 2-4 hours",
+    "primary_cause": "Acute blood calcium depletion within 48-72 hours post-calving",
+    "first_aid": [
+      "Prop the cow up on her brisket (sternal recumbency) using straw bales to avoid bloat.",
+      "Do NOT completely milk the cow dry in the first 48 hours post-calving."
+    ],
+    "veterinary_medical_prescription": [
+      "Immediate Calcium Therapy: Calcium Borogluconate 25% (400-500 ml slow IV under cardiac auscultation + 100 ml Subcutaneous).",
+      "Oral Calcium Gel: Drench with ionic calcium paste (Calfostonic / Cal-Up Gel) 6 hours post IV."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Feed powdered methi (fenugreek) + jaggery paste once animal regains standing posture."
+    ],
+    "recommended_food_modifications": [
+      "Pre-calving (Dry period): Negative DCAD diet (low calcium, high magnesium).",
+      "Post-calving: High available calcium feed + 100g mineral mixture daily."
+    ],
+    "prevention_vaccination": "Administer oral Calcium Gel 12 hours before and immediately after calving."
+  },
+  "Rumen Bloat / Tympany (Afara)": {
+    "severity": "Emergency (Asphyxiation Risk)",
+    "urgency_level": "Relieve gas pressure immediately",
+    "primary_cause": "Excess lush legume grazing (Berseem/Lucerne) or grain overload producing stable foam",
+    "first_aid": [
+      "Keep the cow standing with front feet elevated on an incline.",
+      "Tie a smooth wooden bit/stick in the mouth to induce salivation and belching.",
+      "Pass an esophageal stomach tube to vent free gas."
+    ],
+    "veterinary_medical_prescription": [
+      "Anti-bloat drench: Poloxalene / Simethicone drench (Bloatosil / Tympol 100 ml orally with 500 ml water).",
+      "Rumen tonics: Cobalt and live Saccharomyces cerevisiae yeast bolus (Eco-tas / Biolac)."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Mix 500 ml edible Mustard/Groundnut oil + 20-30 ml Oil of Turpentine + 10g Hing (Asafoetida) + 20g Ginger powder; drench carefully."
+    ],
+    "recommended_food_modifications": [
+      "Withhold lush legumes and grains for 24 hours.",
+      "Feed dry coarse wheat / paddy straw to stimulate rumination."
+    ],
+    "prevention_vaccination": "Never let hungry animals graze wet dew-covered berseem/clover pastures."
+  },
+  "Bovine Ketosis (Acetonemia)": {
+    "severity": "Moderate to High",
+    "urgency_level": "Restore blood glucose balance within 24 hours",
+    "primary_cause": "Negative energy balance in high-yielding dairy cows during early lactation",
+    "first_aid": [
+      "Check for sweet acetone breath and sudden refusal of concentrate feed."
+    ],
+    "veterinary_medical_prescription": [
+      "Glucose replenishment: Dextrose 50% solution (500 ml slow IV).",
+      "Glucogenic precursor: Propylene Glycol oral drench (200-300g twice daily for 3 days).",
+      "Corticosteroid: Isoflupredone Acetate (10-20 mg IM) to boost gluconeogenesis."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Feed 250g pure cane jaggery dissolved in lukewarm water twice daily."
+    ],
+    "recommended_food_modifications": [
+      "Add bypass fat (fractionated palm fat 100-150g/day) to the daily concentrate ration.",
+      "Provide high energy maize grain crush and top-quality legume hay."
+    ],
+    "prevention_vaccination": "Avoid over-conditioning during dry period (aim for BCS 3.25 to 3.5)."
+  },
+  "Theileriosis (Tick Fever / Anaplasmosis)": {
+    "severity": "High (Haemoprotozoan)",
+    "urgency_level": "Early antiprotozoal injection needed to prevent severe anemia",
+    "primary_cause": "Theileria annulata transmitted by Hyalomma ticks",
+    "first_aid": [
+      "Isolate the animal; manually remove visible ticks using acaricide spray."
+    ],
+    "veterinary_medical_prescription": [
+      "Antiprotozoal: Buparvaquone (e.g., Butalex 2.5 mg/kg IM single dose, max 20ml per site).",
+      "Supportive Antibiotic: Oxytetracycline LA (20 mg/kg IM).",
+      "Haematinic tonic: Iron, Copper, Cobalt, Vitamin B12 injection (e.g., Belamyl / Feritas 10ml IM)."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Crushed garlic (50g) in castor oil as external tick repellent."
+    ],
+    "recommended_food_modifications": [
+      "High protein concentrate with liver tonic additives (e.g., Liv-52 bolus).",
+      "Fresh tender green fodder rich in carotene."
+    ],
+    "prevention_vaccination": "Rakshavac-T vaccine for crossbred cattle; periodic Deltamethrin/Cypermethrin tick spray."
+  },
+  "Brucellosis (Reproductive / Abortion Storm)": {
+    "severity": "High (Zoonotic - Danger to Humans)",
+    "urgency_level": "Strict quarantine; do NOT touch aborted placenta without gloves",
+    "primary_cause": "Brucella abortus bacterium",
+    "first_aid": [
+      "Wear heavy rubber gloves; bury aborted fetus and placental membranes in a 6-foot pit with lime.",
+      "Disinfect the calving pen with 2.5% Sodium Hypochlorite or 5% Carbolic acid."
+    ],
+    "veterinary_medical_prescription": [
+      "Collect serum/milk samples for Milk Ring Test (MRT) and Rose Bengal Plate Test (RBPT).",
+      "Consult local state veterinary authority for herd screening protocols."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Not curative. Disease management is through strict biosecurity and vaccination."
+    ],
+    "recommended_food_modifications": [
+      "Feed balanced immune-supporting ration with Zinc and Vitamin E + Selenium."
+    ],
+    "prevention_vaccination": "Single-dose Brucella abortus S19 or RB51 vaccine in female calves aged 4 to 8 months."
+  },
+  "Healthy / Normal": {
+    "severity": "Normal",
+    "urgency_level": "Routine herd maintenance",
+    "primary_cause": "Animal exhibiting healthy physiological vitals",
+    "first_aid": [
+      "Continue standard clean dairy management practices."
+    ],
+    "veterinary_medical_prescription": [
+      "Routine Deworming: Albendazole / Fenbendazole oral suspension every 4-6 months.",
+      "Mineral Supplementation: Chelated Mineral Mixture (50-80g/day) + Common salt (30g/day)."
+    ],
+    "ayurvedic_ethnoveterinary": [
+      "Weekly herbal digestive tonic with Ajwain, Methi, and Turmeric."
+    ],
+    "recommended_food_modifications": [
+      "Balanced 60:40 roughage to concentrate ratio based on daily milk production."
+    ],
+    "prevention_vaccination": "Maintain routine calendar: FMD (bi-annual), HS (May), BQ (June), Brucellosis (calves)."
+  }
+}

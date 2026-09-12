@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: farmer-ai-backend
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    plan: free                  # free tier (512 MB RAM, spins down after 15 min)
+    region: singapore           # closest to India
+    healthCheckPath: /listings
+    envVars:
+      - key: GROQ_API_KEY
+        sync: false             # paste in Render dashboard
+      - key: COHERE_API_KEY
+        sync: false             # paste in Render dashboard

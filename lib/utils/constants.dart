@@ -1,0 +1,56 @@
+import 'package:flutter/foundation.dart' show kIsWeb;
+import 'package:flutter/material.dart';
+
+class AppConstants {
+  // 🔗 API Base URLs
+  static const String localUrl = 'http://10.21.186.73:8000';
+  static const String webUrl = 'http://127.0.0.1:8000';
+  static const String renderUrl = 'https://newrepo-bhe1.onrender.com';
+
+  // Points to your backend server (uses 127.0.0.1 on Web for direct Chrome access, localUrl on mobile)
+  static String get baseUrl => kIsWeb ? webUrl : localUrl;
+
+  // 🔑 API Keys
+  static const String googleMapsApiKey = 'AIzaSyASnZckQ6FaWSl8L6HibN6J9EjfPq86QEM';
+  static const String marketApiKey =
+      '579b464db66ec23bdd000001f5b1cddc55b948ae5f23f72870cde25e';
+  // Open Government Data (data.gov.in) Reservoir Water Level & Release API
+  static const String dataGovApiKey =
+      '579b464db66ec23bdd00000161049c82396e425c5f556ca8831528d3';
+  static const String reservoirResourceId =
+      '6b7f89fc-89d7-415c-b3ce-c1f75c85921d';
+  static const String weatherApiKey = '2254ffc3bbd3014aec24a3f9463afebc';
+  // Ambee Risk & Environmental Data API
+  static const String ambeeApiKey = 'VpudQBx8yAgkBlXoxRM7zwCZwdkuSywt';
+  // AgroMonitoring API Key for Soil and Satellite Data
+  static const String agroMonitoringApiKey = '34973b5563d691891776bf2f6774ad13';
+
+  // 🤖 AI is handled server-side via Groq API (no local Ollama needed)
+
+  // 🎨 Global UI Colors
+  static const Color primaryColor = Colors.green;
+  static const Color secondaryColor = Colors.lightGreen;
+  static const Color backgroundColor = Color(0xFFF5F7F5);
+  static const Color cardColor = Colors.white;
+  static const String appLogo = 'assets/icon/applogo.png';
+
+  static const LinearGradient primaryGradient = LinearGradient(
+    colors: [Colors.green, Colors.lightGreen],
+    begin: Alignment.topLeft,
+    end: Alignment.bottomRight,
+  );
+
+  // 📏 UI Helpers
+  static const double defaultPadding = 16.0;
+  static const double cardRadius = 16.0;
+
+  static final BorderRadius defaultBorderRadius = BorderRadius.circular(
+    cardRadius,
+  );
+
+  static const Map<String, String> langNames = {
+    "te": "Telugu", "hi": "Hindi", "mr": "Marathi", "ta": "Tamil",
+    "bn": "Bengali", "gu": "Gujarati", "kn": "Kannada", "ml": "Malayalam",
+    "pa": "Punjabi", "or": "Odia"
+  };
+}
